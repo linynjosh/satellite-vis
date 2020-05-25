@@ -234,4 +234,4 @@ def plot_sat_by_country_and_purpose(countries, purposes):
 
 # Run the Dash app
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server()
